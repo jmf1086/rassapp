@@ -1,0 +1,2 @@
+# rassapp
+rassapp build
